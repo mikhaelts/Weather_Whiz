@@ -4,4 +4,4 @@ Weather Whiz é uma aplicação que fornece informações atualizadas sobre a pr
 Criada em PHP com o consulmo de API da openweather
 
 # mikhael tellys
-
+* comando git fech
