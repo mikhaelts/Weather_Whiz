@@ -8,3 +8,5 @@ Criada em PHP com o consulmo de API da openweather
 # savando no GIT estudo
 
 # titulo secundario
+
+* uso do comando restore
